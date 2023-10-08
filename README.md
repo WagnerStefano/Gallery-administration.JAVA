@@ -5,8 +5,10 @@ Gallery Administration made with Java using IDE Apache NetBeans 17
 
 With this App we can
 
-Register new employees.
-Register Arts.
-Register Artworks using images and linking with Gallerys exhibitions.
-Control of entry and exit of works of art
+- Register new employees.
+- Register Arts.
+- Register Artworks using images and linking with Gallerys exhibitions.
+- Control of entry and exit of works of art.
+
+  
 follow to see new updates and new functionalities
